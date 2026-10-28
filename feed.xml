@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+     xmlns:atom="http://www.w3.org/2005/Atom" 
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://tatunanu.github.io/podcast-feed/feed.xml" rel="self" type="application/atom+xml"/>
+    <title>Deep Sleep &amp; Relax: Brown Noise &amp; Ambient Sounds</title>
+    <link>https://tatunanu.github.io/podcast-feed/</link>
+    <description>Continuous brown noise, pink noise, and ambient sounds designed for deep sleep, insomnia relief, studying, and focus. 8 hours uninterrupted soundscapes.</description>
+    <language>en</language>
+    <copyright>© 2026 Alexandre Afonso</copyright>
+    <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <generator>Podcast Noise Engine</generator>
+    <managingEditor>alexandreafonsogomes@gmail.com</managingEditor>
+    <webMaster>alexandreafonsogomes@gmail.com</webMaster>
+    <itunes:author>Alexandre Afonso</itunes:author>
+    <itunes:summary>Continuous brown noise, pink noise, and ambient sounds designed for deep sleep, insomnia relief, studying, and focus. 8 hours uninterrupted soundscapes.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Alexandre Afonso</itunes:name>
+      <itunes:email>alexandreafonsogomes@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health"/>
+    </itunes:category>
+    <itunes:image href="https://pub-4903c614f18244cab262b39a8b0a493d.r2.dev/cover.jpg"/>
+    <image>
+      <url>https://pub-4903c614f18244cab262b39a8b0a493d.r2.dev/cover.jpg</url>
+      <title>Deep Sleep &amp; Relax: Brown Noise &amp; Ambient Sounds</title>
+      <link>https://tatunanu.github.io/podcast-feed/</link>
+    </image>
+    <item>
+      <guid isPermaLink="false">78551eee-92bb-4590-b492-fc7855aa138d</guid>
+      <title>Ep. 1: Deep Brown Noise: Heavy Sleep &amp; Calming Ambient (8 Hours)</title>
+      <description>Continuous, deep low-frequency brownian noise designed to block out distracting sounds, ease tinnitus, relieve insomnia, and induce restorative deep sleep.</description>
+      <pubDate>Wed, 28 Oct 2026 21:48:14 +0000</pubDate>
+      <author>alexandreafonsogomes@gmail.com</author>
+      <link>https://tatunanu.github.io/podcast-feed/</link>
+      <enclosure url="https://pub-4903c614f18244cab262b39a8b0a493d.r2.dev/episode_001_brown.mp3" length="240579" type="audio/mpeg"/>
+      <itunes:title>Ep. 1: Deep Brown Noise: Heavy Sleep &amp; Calming Ambient (8 Hours)</itunes:title>
+      <itunes:author>Alexandre Afonso</itunes:author>
+      <itunes:duration>00:30</itunes:duration>
+      <itunes:summary>Continuous, deep low-frequency brownian noise designed to block out distracting sounds, ease tinnitus, relieve insomnia, and induce restorative deep sleep.</itunes:summary>
+      <itunes:subtitle>Continuous, deep low-frequency brownian noise</itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://pub-4903c614f18244cab262b39a8b0a493d.r2.dev/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
